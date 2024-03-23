@@ -1,0 +1,14 @@
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\P.MappingLayer.dll.config
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\P.MappingLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\P.MappingLayer.pdb
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\EntityFramework.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\P.EntityLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\P.EntityLayer.pdb
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\EntityFramework.xml
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\obj\Debug\P.MappingLayer.csproj.AssemblyReference.cache
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\obj\Debug\P.MappingLayer.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\obj\Debug\P.MappingLayer.csproj.CopyComplete
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\obj\Debug\P.MappingLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.MappingLayer\obj\Debug\P.MappingLayer.pdb
