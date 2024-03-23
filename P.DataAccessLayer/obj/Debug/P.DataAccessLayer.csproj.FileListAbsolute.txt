@@ -1,0 +1,17 @@
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\P.DataAccessLayer.dll.config
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\P.DataAccessLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\P.DataAccessLayer.pdb
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\P.EntityLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\P.MappingLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\P.EntityLayer.pdb
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\P.MappingLayer.pdb
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\P.MappingLayer.dll.config
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\obj\Debug\P.DataAccessLayer.csproj.AssemblyReference.cache
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\obj\Debug\P.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\obj\Debug\P.DataAccessLayer.csproj.CopyComplete
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\obj\Debug\P.DataAccessLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.DataAccessLayer\obj\Debug\P.DataAccessLayer.pdb

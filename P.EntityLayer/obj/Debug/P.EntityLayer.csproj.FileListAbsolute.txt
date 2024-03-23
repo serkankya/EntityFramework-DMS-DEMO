@@ -1,0 +1,6 @@
+D:\VisualStudio projects\DMS_EntityFramework\P.EntityLayer\bin\Debug\P.EntityLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.EntityLayer\bin\Debug\P.EntityLayer.pdb
+D:\VisualStudio projects\DMS_EntityFramework\P.EntityLayer\obj\Debug\P.EntityLayer.csproj.AssemblyReference.cache
+D:\VisualStudio projects\DMS_EntityFramework\P.EntityLayer\obj\Debug\P.EntityLayer.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\DMS_EntityFramework\P.EntityLayer\obj\Debug\P.EntityLayer.dll
+D:\VisualStudio projects\DMS_EntityFramework\P.EntityLayer\obj\Debug\P.EntityLayer.pdb
